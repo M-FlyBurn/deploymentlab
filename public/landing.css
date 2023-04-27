@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color:#043565;
+    color:#EB4B98;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    color: #F58F29;
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5158BB;
+}
